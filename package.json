@@ -1,0 +1,26 @@
+{
+  "name": "ts4learning",
+  "version": "1.0.0",
+  "description": "This is a module I use for learning TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynnoil17/ts4learning.git"
+  },
+  "keywords": [
+    "typescript",
+    "node"
+  ],
+  "author": {
+    "name": "Leonid Kryukov",
+    "email": "dynnoil@ya.ru"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dynnoil17/ts4learning/issues"
+  },
+  "homepage": "https://github.com/dynnoil17/ts4learning#readme"
+}
