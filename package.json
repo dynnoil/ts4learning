@@ -2,7 +2,7 @@
   "name": "ts4learning",
   "version": "1.0.0",
   "description": "This is a module I use for learning TypeScript",
-  "main": "index.js",
+  "main": "/out/HelloWorld.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
